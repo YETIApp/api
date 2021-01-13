@@ -33,7 +33,8 @@
             "gHomePoints":"2",
             "gGuestPoints":"0",
             "gComment":" ",
-            "gReferee":"Schaefer,Ullrich"
+            "gReferee":"Schaefer,Ullrich",
+		 "gBericht":"https://spo.handball4all.de/misc/sboPublicReports.php?sGID=1234937",
          },
          {
             "lvTypeNext":"",
